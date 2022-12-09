@@ -1,3 +1,4 @@
+
 describe('Fixture Test', function ()  {
     before(() => {
         cy.fixture("report_types").then(function(data){
@@ -24,8 +25,7 @@ describe('Fixture Test', function ()  {
                 break;
                 case this.daterange[1]:
                     let trend_template=report_template.Trends
-                    cy.log(trend_template)
-                    
+                    cy.log(trend_template)        
                     break;
             default:
                 cy.log(false);
