@@ -1,0 +1,95 @@
+[
+    {
+        "reportname": [
+            "Alarm",
+            "Alarm Trends",
+            "Analytics",
+            "Asset",
+            "Audit",
+            "Cross Sectional Benchmarking",
+            "Degree Days",
+            "Forensic",
+            "Generic",
+            "History",
+            "Longitudinal Benchmarking",
+            "Security"
+        ]
+    },
+    {
+        "daterangepicker": [
+            "Last 24 hours",
+            "Today",
+            "Yesterday",
+            "Last 7 Days",
+            "Last 30 Days",
+            " This Month",
+            "Last Month"
+        ]
+    },
+    {
+        "report_template": [
+            {
+                "Alarm": [
+                    "AlarmReportType21",
+                    "AlarmSummaryReport",
+                    "DefaultAlarm",
+                     "DRLAlarmReport",
+                    "DRLAlarmReportEMS",
+                    "FineFilterAlarm"
+                ],
+                "Trends": [
+                    "AlarmTrendChart",
+                    "CustomTrendChart",
+                    "DefaultAlarmTrends"
+                ],
+                "Analytics": [
+                    "DataReportAnalyticsType21",
+                    "DefaultAnalytics",
+                    "DataReportAnalyticsType22"
+                ],
+                "Asset": [
+                    "DefaultAsset"
+                ],
+                "Audit": [
+                    "AuditTrailReport",
+                    "DefaultAudit",
+                    "DRLAuditReport"
+                ],
+                "Cross_Sectional_Benchmarking": [
+                    "DefaultCrossSectionalBenchmarking"
+                ],
+                "Degree_Days": [
+                    "DefaultDegreeDays"
+                ],
+                "Forensic": [
+                    "DefaultForensic"
+                ],
+                "Generic": [
+                    "DefaultGeneric"
+                ],
+                "History": [
+                    "AreaReport",
+                    "CustomChart",
+                    "CustomTableHeader",
+                    "DataReportType21",
+                    "DefaultHistory",
+                    "DRLDataReport",
+                    "DRLDataReport",
+                    "HistoryTablewithChart",
+                    "RoomTrendsGraph",
+                    "RoomTrendsGraph"
+                ],
+                "Longitudinal_Benchmarking": [
+                    "DefaultLongitudinalBenchmarking"
+                ],
+                "Security": [
+                    "DefaultLongitudinalBenchmarking",
+                    "ESign"
+                ],
+                "Snapshot": [
+                    "DefaultLivePoints"
+                ]
+            }
+        ]
+    }
+]
